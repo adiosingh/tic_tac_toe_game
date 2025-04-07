@@ -75,6 +75,6 @@ tic_tac_toe_game/
 
 👩‍💻 Author
 Tanya Rathour
-📚 B.Tech CSE | 🎯  ML Enthisiast 
+📚 B.Tech CSE | 🎯  ML Enthusiast 
 
 
